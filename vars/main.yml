@@ -1,0 +1,3 @@
+---
+# vars file for kube-worker-setup
+location_join: '/home/ec2-user'
