@@ -10,7 +10,8 @@ Role Variables
 1. location_join - This variable is used for the location where you want to store the join command i.e the last command which is created by the master and should be run in the worker node to connect worker node to master node.
 Dependencies
 ------------
-Other roles required are gautam43.ec2_launcher for launching the instances of master and worker\n
+Other roles required are gautam43.ec2_launcher for launching the instances of master and worker
+
 Example Playbook
 ----------------
 Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:
