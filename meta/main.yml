@@ -8,5 +8,5 @@ galaxy_info:
   galaxy_tags:
          - "k8sworker"
          - "kubeslave"
-dependencies: "gautam43.ec2_launcher"
+
 
